@@ -1780,6 +1780,7 @@ input, select, textarea {
 			margin: 0.25em;
 			top: 0;
 			padding-left: 0;
+			vertical-align: baseline;
 		}
 
 			ul.social li a {
